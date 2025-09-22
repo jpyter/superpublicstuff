@@ -85,7 +85,11 @@ Project structure (recommended)
 Be concise in PR descriptions and link relevant issues.
 
 ## Troubleshooting
-- If you see `EADDRINUSE` change `port` in `config.yml`.
+-
+### Author
+
+Agent
+f you see `EADDRINUSE` change `port` in `config.yml`.
 - For permission errors on Unix when installing globally, prefer `npx` or use a node version manager.
 
 ## Changelog
